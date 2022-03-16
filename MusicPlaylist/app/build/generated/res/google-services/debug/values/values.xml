@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">545746350400-pmivs8a91hn1nftlkaqredj76b6uvo3b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">545746350400</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnw8dRKqJ7d_lh1WPtt4NPZ4IXNKCLwPs</string>
+    <string name="google_app_id" translatable="false">1:545746350400:android:80b59b4e0eeb8d48fc0aa5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnw8dRKqJ7d_lh1WPtt4NPZ4IXNKCLwPs</string>
+    <string name="google_storage_bucket" translatable="false">music-playlist-cb7c0.appspot.com</string>
+    <string name="project_id" translatable="false">music-playlist-cb7c0</string>
+</resources>

@@ -12,25 +12,25 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int enabled = 0x7f0300d4;
-        public static final int maxProgress = 0x7f03017f;
-        public static final int progress = 0x7f03019a;
-        public static final int progressBackgroundColor = 0x7f03019b;
-        public static final int progressBackgroundWidth = 0x7f03019c;
-        public static final int progressColor = 0x7f03019f;
-        public static final int progressWidth = 0x7f0301a0;
-        public static final int roundEdges = 0x7f0301aa;
-        public static final int thumb = 0x7f030211;
+        public static final int enabled = 0x7f0300d7;
+        public static final int maxProgress = 0x7f030184;
+        public static final int progress = 0x7f03019f;
+        public static final int progressBackgroundColor = 0x7f0301a0;
+        public static final int progressBackgroundWidth = 0x7f0301a1;
+        public static final int progressColor = 0x7f0301a4;
+        public static final int progressWidth = 0x7f0301a5;
+        public static final int roundEdges = 0x7f0301af;
+        public static final int thumb = 0x7f030217;
     }
     public static final class drawable {
         private drawable() {}
 
-        public static final int thumb = 0x7f070089;
+        public static final int thumb = 0x7f07009e;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] ArcSeekBar = { 0x7f0300d4, 0x7f03017f, 0x7f03019a, 0x7f03019b, 0x7f03019c, 0x7f03019f, 0x7f0301a0, 0x7f0301aa, 0x7f030211 };
+        public static final int[] ArcSeekBar = { 0x7f0300d7, 0x7f030184, 0x7f03019f, 0x7f0301a0, 0x7f0301a1, 0x7f0301a4, 0x7f0301a5, 0x7f0301af, 0x7f030217 };
         public static final int ArcSeekBar_enabled = 0;
         public static final int ArcSeekBar_maxProgress = 1;
         public static final int ArcSeekBar_progress = 2;

@@ -1,7 +1,7 @@
-#Tue Mar 15 21:06:50 ALMT 2022
-base.1=C\:\\Users\\dushu\\Desktop\\IITU\\3 course\\2sem\\mobile\\Music-Player\\MusicPlaylist\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+#Wed Mar 16 21:56:06 ALMT 2022
+base.1=C\:\\Users\\dushu\\Desktop\\IITU\\3 course\\2sem\\mobile\\android_Music_App\\MusicPlaylist\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
-base.0=C\:\\Users\\dushu\\Desktop\\IITU\\3 course\\2sem\\mobile\\Music-Player\\MusicPlaylist\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+base.0=C\:\\Users\\dushu\\Desktop\\IITU\\3 course\\2sem\\mobile\\android_Music_App\\MusicPlaylist\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
